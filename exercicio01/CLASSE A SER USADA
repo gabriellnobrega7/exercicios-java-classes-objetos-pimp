@@ -1,0 +1,8 @@
+public class Banda{
+
+      String nome;
+     String tipoMusica;
+     int numeroIntegrantes;
+     int posicaoRanking;
+
+ }
