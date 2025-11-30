@@ -1,3 +1,4 @@
+ package exercicio03;
  public class Banda {
     
     public String nome;
